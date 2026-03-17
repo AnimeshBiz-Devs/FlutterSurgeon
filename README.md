@@ -1,6 +1,6 @@
 # flutter_surgeon
 
-A new Flutter project.
+A Flutter Project - Equipping everyon to draw out screens visually and changing their parameters, while also generating the code for the same.
 
 ## Getting Started
 
